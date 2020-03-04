@@ -1,0 +1,2 @@
+INSERT INTO `usuarios` (username, password, enabled,nombre,apellido,email) VALUES('david', 'david',1,'david', 'rey','davidreytorr@gmail.com');
+INSERT INTO `usuarios` (username, password, enabled,nombre,apellido,email) VALUES('admin', 'admin',1,'Administrador', 'Prueba','davidreytorr@protonmail.ch');
